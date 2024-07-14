@@ -1,0 +1,16 @@
+# Awesome-Algorithms
+
+A curated collection of awesome algorithms and data structures implemented in various programming languages.
+
+## Algorithms
+
+- [Binary Search](binary_search/README.md)
+- More to come...
+
+## Contributing
+
+Feel free to fork this repository and contribute by adding more algorithms, improving existing ones, or fixing bugs. Please make sure to follow the contribution guidelines.
+
+## License
+
+This project is licensed under the MIT License.
